@@ -1,0 +1,16 @@
+[
+{
+  "modid": "amenities",
+  "name": "Amenities",
+  "description": "A Minecraft twist on modern conveniences.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IceMetalPunk"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

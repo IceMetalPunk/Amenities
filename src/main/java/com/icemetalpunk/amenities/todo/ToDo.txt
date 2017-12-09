@@ -19,7 +19,7 @@ Definite:
 
 Uncertain:
 
-8. Fan, classic mob fan? Maybe?
-9. Rollerboots? Give speed and low friction.
-10. Oven, redstone-powered furnace that takes longer but uses no fuel
-11. Microwave, expensive, cooks food via redstone and uses no fuel, but has a chance of burning the food as well
+10. Fan, classic mob fan? Maybe?
+11. Rollerboots? Give speed and low friction.
+12. Oven, redstone-powered furnace that takes longer but uses no fuel
+13. Microwave, expensive, cooks food via redstone and uses no fuel, but has a chance of burning the food as well

@@ -1,0 +1,25 @@
+Definite:
+
+1. AirCon, gives slowness to mobs (and players?) in range; turns water into ice.
+2. Central Heating, causes regular fire damage to mobs (and players?) in range; melts ice.
+3. Electric Lift, redstone-powered elevator block. Shifting mobs go down, non-shifting go up.
+4. Televiewer / Telemitter, screen and camera. Somehow. If possible.
+    4b. If not possible, then teleportal of some sort.
+5. Bathtub (tubthump?), infinite water source
+6. Shower, cleans status effects and grows crops
+7. Dimminer (dimmer), analog lamp
+8. Locked shulker box & shulker key
+    --> Like a normal shulker box, but once locked, can only be opened with the exact same key
+    --> Keys can be copied; each has a unique ID in its NBT otherwise.
+    --> Boxes' TEs track the first key used on them and get locked with that ID.
+    --> Shift-click with the correct key fully unlocks the box and allows it to be locked with
+        another key, or just publicly opened.
+    --> Locked boxes don't allow automation at all, even from hoppers.
+9. Digital clock, outputs redstone proportional to time of day, linearly, regardless of daylight
+
+Uncertain:
+
+8. Fan, classic mob fan? Maybe?
+9. Rollerboots? Give speed and low friction.
+10. Oven, redstone-powered furnace that takes longer but uses no fuel
+11. Microwave, expensive, cooks food via redstone and uses no fuel, but has a chance of burning the food as well

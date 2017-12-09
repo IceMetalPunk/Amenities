@@ -1,4 +1,4 @@
-package com.icemetalpunk.infernaltech.proxy;
+package com.icemetalpunk.amenities.proxy;
 
 import java.util.HashMap;
 import java.util.Map;

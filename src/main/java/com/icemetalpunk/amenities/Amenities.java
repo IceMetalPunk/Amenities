@@ -14,7 +14,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = Amenities.MODID, version = Amenities.VERSION)
-public class InfernalTech {
+public class Amenities {
 	public static final String MODID = "amenities";
 	public static final String VERSION = "1.0";
 
